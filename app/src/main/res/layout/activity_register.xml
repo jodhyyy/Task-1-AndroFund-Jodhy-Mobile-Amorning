@@ -55,6 +55,7 @@
                 android:textStyle="bold" />
 
             <EditText
+                android:id="@+id/edt_username"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_marginStart="20dp"
@@ -68,6 +69,7 @@
                 android:paddingStart="10dp" />
 
             <EditText
+                android:id="@+id/edt_password"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_marginStart="20dp"
@@ -81,6 +83,7 @@
                 android:paddingStart="10dp" />
 
             <EditText
+                android:id="@+id/edt_confrim_password"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_marginStart="20dp"
@@ -90,7 +93,7 @@
                 android:drawableStart="@drawable/outline_lock_24"
                 android:drawablePadding="10dp"
                 android:drawableTint="@color/black"
-                android:hint="Re-Password"
+                android:hint=" Confrim Password"
                 android:paddingStart="10dp" />
 
             <TextView

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Task_1_AndroFund_Jodhy_A_Mobile_Morning</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
